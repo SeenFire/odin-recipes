@@ -1,0 +1,76 @@
+.Odin-Recipes {
+    color: rgb(119, 0, 255);
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: 2px solid red;
+    width: 200px
+}
+    
+.home-pages {
+    color: purple;
+    outline: 2px solid red;
+    width: 200px;
+    background-color: greenyellow;
+
+}
+.lasagna-d {
+    color: green;
+    outline: 2px solid green;
+    background-color: aqua;
+    width: 300px;
+}
+.lasagna-header {
+    color: gold;
+    outline: 2px solid;
+    width: 250px;
+    background-color: black;
+
+}
+.lasagna-ingredients {
+    color: bisque;
+    outline: 2px solid;
+    width: 250px;
+    background-color: blueviolet;
+}
+.lasagna-steps {
+    color: aqua;
+    outline: 2px solid aqua;
+    background-color: grey;
+    width: 350px;
+}
+.Mac-headers {
+    color: aliceblue;
+    background-color: black;
+    outline: 2px solid yellow;
+    width: 250px;
+}
+.m-ingredients,
+.m-steps {
+    width: 150px;
+    text-align: center;
+}
+.M-section {
+    color: yellow;
+    background-color: burlywood;
+    border: 2px solid red;
+    width: 500px;
+}
+.chicken {
+    color: lightgreen;
+    background-color: blue;
+    outline: 2px solid lightgreen;
+    width: 350px;
+}
+.chicken-section {
+    color: greenyellow;
+    background-color: brown;
+    outline: 2px solid red;
+}
+.c-desc, 
+.c-ingredients {
+    width: 400px;
+}
+.c-header {
+    width: 200px;
+    text-align: center;
+}
